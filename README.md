@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm  Jonathan  born in Ecuador and rise in Spain.<br><br>- 📚 I'm currently learning  React and Node<br>- ⚡ In my free time I sometimes study React and improve my Front-End skills.</p>
+<p align="left">I'm  Jonathan  born in Ecuador and rise in Spain.<br>- ⚡ In my free time I like to  improve my Front-End skills.</p>
 
 ###
 
